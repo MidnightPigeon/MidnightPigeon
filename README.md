@@ -2,7 +2,7 @@
 -
 --INTP/ENTP | Violin player & Writer & Coder & Cats(?
 -
---中文/English Enabled
+--中文/English
 -
 --提供树洞和心理疏导服务，大概（）
 -
