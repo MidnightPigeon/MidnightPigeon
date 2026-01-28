@@ -35,11 +35,11 @@
 ## Selected Repositories
 
 - **Mozart's Touch** — A Lightweight Multi-modal Music Generation Framework Based on Pre-Trained Large Models  
-[ArXiv Site](https://arxiv.org/abs/2405.02801)
+- [ArXiv Site](https://arxiv.org/abs/2405.02801)
 
 - **WizardryCraft** — Minecraft Modpack for wizards!
 - Still in Process*
-[Github Site](https://github.com/MidnightPigeon/WizardryCraft)
+- [Github Site](https://github.com/MidnightPigeon/WizardryCraft)
 
 ---
 
