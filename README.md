@@ -1,17 +1,59 @@
---工科生会搞项目写文章拉小提琴扒谱改编写曲养猫做饭很合理对吧
--
---INTP/ENTP | Violin player & Writer & Coder & Cats(?
--
---中文/English
--
---提供树洞和心理疏导服务，大概（）
--
+# Hi, I'm Midnight
 
-Email: Midnight_Pigeon@outlook.com
--
+- Mayby a normal pigeon or something else that you could find anywhere.
+- Neither wish to be human nor to be seen as one.
+- 需要乐谱的中文用户请进入此仓库下载:[乐谱仓库](https://github.com/MidnightPigeon/Musescore-sheets)
+- 如浏览器无法预览是正常现象，下载PDF后在本地打开即可。
 
+---
 
-好吧，大概是从此开始活在更多的世界了，大概吧。
-这里可能会上传奇怪的代码和乱七八糟的存档，以及更多的bug。
-一切随缘。
+## About Me
 
+- Background: student / developer / researcher / musician / writer
+- Interests: creative coding, music, design
+- Currently focused on: 
+-- Business Management & Communication
+-- Music & Writing
+-- Thinking & Dressing(?) 
+
+---
+
+## What I Work With
+
+**Languages & Tools**
+- Chinese & English
+- C&C++, Python, Java, Javascript
+- Musescore 4, Synthesizer V
+
+**Areas**
+- Software Development
+- Psychology & Sociology
+- Education & Educational Practice
+
+---
+
+## Selected Repositories
+
+- **Mozart's Touch** — A Lightweight Multi-modal Music Generation Framework Based on Pre-Trained Large Models  
+[ArXiv Site](https://arxiv.org/abs/2405.02801)
+
+- **WizardryCraft** — Minecraft Modpack for wizards!
+- Still in Process*
+[Github Site](https://github.com/MidnightPigeon/WizardryCraft)
+
+---
+
+## Public Portfolio Platforms
+
+- [Bilibili](https://space.bilibili.com/387442480)
+- [NetEase Cloud Music](https://music.163.com/#/artist?id=55320049)
+
+---
+
+## Contact
+
+- Email: Midnight_Pigeon@outloook.com
+
+---
+
+_Last updated: [2026-01]_
