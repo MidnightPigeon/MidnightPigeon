@@ -12,9 +12,9 @@
 - Background: student / developer / researcher / musician / writer
 - Interests: creative coding, music, design
 - Currently focused on: 
--- Business Management & Communication
--- Music & Writing
--- Thinking & Dressing(?) 
+- Business Management & Communication
+- Music & Writing
+- Thinking & Dressing(?) 
 
 ---
 
