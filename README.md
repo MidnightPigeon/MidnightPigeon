@@ -1,6 +1,6 @@
 # Hi, I'm Midnight
 
-- Mayby a normal pigeon or something else that you could find anywhere.
+- Maybe a normal pigeon or something else that you could find anywhere.
 - Neither wish to be human nor to be seen as one.
 - 需要乐谱的中文用户请进入此仓库下载:[乐谱仓库](https://github.com/MidnightPigeon/Musescore-sheets)
 - 如浏览器无法预览是正常现象，下载PDF后在本地打开即可。
