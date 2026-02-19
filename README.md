@@ -47,6 +47,7 @@
 
 - [Bilibili](https://space.bilibili.com/387442480)
 - [NetEase Cloud Music](https://music.163.com/#/artist?id=55320049)
+- [Pixiv](https://www.pixiv.net/users/87992422)
 
 ---
 
