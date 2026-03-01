@@ -53,7 +53,7 @@
 
 ## Contact
 
-- Email: Midnight_Pigeon@outloook.com
+- Email: Midnight_Pigeon@outlook.com
 
 ---
 
