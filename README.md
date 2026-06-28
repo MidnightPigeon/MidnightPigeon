@@ -64,4 +64,4 @@
 
 ---
 
-_Last updated: [2026-01]_
+_Last updated: [2026-06]_
