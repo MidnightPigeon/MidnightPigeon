@@ -58,6 +58,9 @@
 ## Contact
 
 - Email: Midnight_Pigeon@outlook.com
+- Or: xchen128@mymail.sim.edu.sg
+- Or: xxc613@student.bham.ac.uk
+- *Messages send to student emails may be replied by main email.*
 
 ---
 
