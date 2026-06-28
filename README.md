@@ -41,6 +41,10 @@
 - Still in Process*
 - [Github Site](https://github.com/MidnightPigeon/WizardryCraft)
 
+- **Mnemosyne** — A Personal All-in-One Inspiration & Creative Workspace
+- Still in Process*
+- [Github Site](https://github.com/MidnightPigeon/Mnemosyne)
+
 ---
 
 ## Public Portfolio Platforms
